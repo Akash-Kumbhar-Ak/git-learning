@@ -1,2 +1,6 @@
 Emp_name : Akash Kumbhar
 Emp_Id : AK000123
+Contact_no : 8073473519
+Emp_address : Nipani
+Emp_designation : jr. Data Engineer
+
