@@ -1,0 +1,3 @@
+# Data Pipeline Configuration
+source: postgres
+destination: s3
